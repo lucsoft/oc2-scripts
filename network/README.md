@@ -9,5 +9,5 @@
 
 ### Setting up a DHCP Client
 
-- [/etc/netwrok/interfaces](https://github.com/lucsoft/oc2-scripts/blob/main/network/client/networkinterface)
+- [/etc/network/interfaces](https://github.com/lucsoft/oc2-scripts/blob/main/network/client/networkinterface)
 - ifup eth0
