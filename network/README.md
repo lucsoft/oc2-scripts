@@ -7,7 +7,7 @@
 - ifup eth0
 - run dnsmasq
 
-### Setting up a DHCP Client
+### Setting up a Client
 
 - [/etc/network/interfaces](https://github.com/lucsoft/oc2-scripts/blob/main/network/client/networkinterface)
 - ifup eth0
